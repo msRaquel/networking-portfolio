@@ -4,11 +4,8 @@ This repository showcases my hands-on networking experience with both
 Cisco Packet Tracer simulations and real Cisco hardware in my university lab.
 
 ## Physical Labs
-- **VLAN Switching Lab** – Configured VLANs and trunk links between three Cisco 2960 switches.
-- **Router OSPF Configuration** – Implemented dynamic routing on Cisco 1941 routers.
-- **Static Routing & Troubleshooting** – Connected multiple networks and verified routing tables.
+- **Switching Lab** – Demonstarted Ethernet switch forwarding process by configuring hosts to Catalyst 3750 Series Ethernet switches. Exemplifying my understanding of the data-link layer.
+- **Router Configuration** – Configured Routers and Hosts to succesfuly interconnect local networks. Confirming how routers forward packets and my inderstanding of protocols at the network layer. 
+- **Network Programming** – Connected multiple networks and verified routing tables.
 
 ## Simulated Labs (Packet Tracer)
-- **Two-LAN Network**
-- **DHCP and DNS Configuration**
-- **Access Control Lists (ACL)**
